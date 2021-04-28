@@ -30,3 +30,4 @@ Entirely 100% open source, but please respect the license shipped with the sourc
 ## Requirement
 **Node.js 8.0.0 or newer (Within the 8.x.x path though) is required.**
 **FFMPEG Binaries installed and in the path of your OS for the voice parts**
+potter
